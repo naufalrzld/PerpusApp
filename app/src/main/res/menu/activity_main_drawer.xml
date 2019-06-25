@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_buku"
+            android:icon="@drawable/ic_open_book"
+            android:title="Daftar Buku" />
+        <item
+            android:id="@+id/nav_anggota"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/menu_anggota" />
+        <item
+            android:id="@+id/nav_peminjaman"
+            android:icon="@drawable/ic_outcoming_object"
+            android:title="Peminjaman Buku" />
+        <item
+            android:id="@+id/nav_pengembalian"
+            android:icon="@drawable/ic_return"
+            android:title="@string/menu_pengembalian" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="@string/menu_about" />
+        </menu>
+    </item>
+
+</menu>

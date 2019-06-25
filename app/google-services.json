@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931739662332",
+    "firebase_url": "https://perpustakaanapp.firebaseio.com",
+    "project_id": "perpustakaanapp",
+    "storage_bucket": "perpustakaanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931739662332:android:dff152a4bc612c16",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931739662332-mkq2fe20m0fc8c7c1l3a1fks50hf382o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perpustakaanapp",
+            "certificate_hash": "7b4db4ee21f7f94d2af8bc32cdd954324bb0f06c"
+          }
+        },
+        {
+          "client_id": "931739662332-2h6vbs78kvrspq7962psuig7ja6qgcch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_AMFTXyC7GLZQO2wsPfdgbM41dP2tZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931739662332-2h6vbs78kvrspq7962psuig7ja6qgcch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
